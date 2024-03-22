@@ -1,8 +1,4 @@
-const livros = [
-    {"id": 1, "titulo": "hola", "num_paginas": 5, "isbn": "5", "editora": "bryant" },
-    {"id": 1, "titulo": "hola", "num_paginas": 5, "isbn": "5", "editora": "bryant" },
-    {"id": 1, "titulo": "hola", "num_paginas": 5, "isbn": "5", "editora": "bryant" },
-]
+const livros = []
 
 
 getLivros = (req, res) =>{
